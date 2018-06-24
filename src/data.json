@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/bowser.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/DaisyMP8Official.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/paratroopa.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/Iggy_Koopa.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/Ludwig_Von_Koopa_3D.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/Lemmy_Koopa_3D.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/luigi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/mario.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/kirby.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/princess_peach.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/Piranha_Plant.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/goomba.jpg",
+    "clicked": false
+  }
+]
