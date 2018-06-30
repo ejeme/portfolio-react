@@ -6,7 +6,7 @@
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   color: white;
   font-size: calc(10px + (24 - 10) * (100vw - 320px) / (1200 - 400));
-  z-index: 99;
+ 
   white-space: nowrap;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .navbar li {
-  display: inline-block;
+
   padding: 26px 0px;
   width: 33.3%;
   text-align: center;
@@ -26,6 +26,11 @@
   text-decoration: none;
   color: white;
   font-weight: 900;
+  margin: 0 3% 0 0;
+}
+
+.navbar-header ul {
+  margin: 0% 0% 0 15%;
 }
 
 @media (max-width: 420px) {
@@ -40,4 +45,14 @@
   .navbar li:last-child {
     width: 40%;
   }
+}
+
+.navbar-toggler{
+  float: left;
+  margin-left: 10px;
+}
+
+.dropdown{
+  float: left;
+  margin: 2% 2% 0 0;
 }

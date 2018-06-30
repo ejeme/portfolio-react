@@ -1,7 +1,7 @@
 import React from "react";
-import "./Container.css";
+import "./About.css";
 
-const Container = props => <main className="container">{props.children}
+const About = props => <main className="about">{props.children}
 <h1>
     About
 </h1>
@@ -11,4 +11,4 @@ const Container = props => <main className="container">{props.children}
 </p>
 </main>;
 
-export default Container;
+export default About;

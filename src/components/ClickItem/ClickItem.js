@@ -5,9 +5,10 @@ const ClickItem = props => (
   <div
     role="img"
     aria-label="click item"
-    onClick={() => props.handleClick(props.id)}
+    onClick={() => props.handleClick(props.url)}
     style={{ backgroundImage: `url("${props.image}")` }}
     className={`click-item${props.shake ? " shake" : ""}`}
+
   />
 );
 

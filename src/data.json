@@ -1,18 +1,21 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/bowser.png",
-    "clicked": false
+    "image": "/assets/images/mario.png",
+    "clicked": false,
+    "url": "https://glacial-thicket-80248.herokuapp.com/" 
   },
   {
     "id": 2,
-    "image": "/assets/images/DaisyMP8Official.png",
-    "clicked": false
+    "image": "/assets/images/DH-IPC-HDBW1220EP.png",
+    "clicked": false,
+    "url": "https://shrouded-reef-81264.herokuapp.com/" 
   },
   {
     "id": 3,
-    "image": "/assets/images/paratroopa.jpg",
-    "clicked": false
+    "image": "/assets/images/ny-times.png",
+    "clicked": false,
+    "url": "https://rocky-thicket-50616.herokuapp.com/" 
   },
   {
     "id": 4,
